@@ -9,6 +9,7 @@ import plotly.express as px
 
 # ---------------- ENVIRONMENT SETUP ----------------
 load_dotenv()
+os.makedirs('data', exist_ok=True)
 
 # Initialize Groq API Key Correctly
 groq_api_key = os.getenv("GROQ_API_KEY")
