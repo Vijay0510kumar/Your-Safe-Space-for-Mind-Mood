@@ -1,0 +1,6 @@
+date,entry,emotion,sentiment,week,month
+2025-07-18,"i am happy today , I have completed my project . but my test went not good",joy,Positive,29,7
+2025-07-18,"i am low feeling today , make me happy",joy,Positive,29,7
+2025-07-18,,neutral,Negative,29,7
+2025-07-18,i am ok,joy,Positive,29,7
+2025-07-18,today i am not feeling good,Negative,NEGATIVE,29,7
